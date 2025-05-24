@@ -1,6 +1,5 @@
 # 🧠 AI Research Assistant using LangChain
 
-## 📌 Project Title  
 **Context-Aware Research Assistant using LangChain, ChromaDB, and Flan-T5**
 
 ## 📄 Overview
