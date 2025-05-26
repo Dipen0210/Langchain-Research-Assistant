@@ -38,5 +38,3 @@ The assistant is capable of:
 - HuggingFace Transformers
 - Sentence-Transformers
 - ChromaDB
-- tiktoken / FAISS (optional)
-
