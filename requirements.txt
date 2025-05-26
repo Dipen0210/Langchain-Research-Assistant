@@ -1,0 +1,9 @@
+langchain
+langchain-community
+transformers
+sentence-transformers
+chromadb
+unstructured
+pdfminer.six
+tqdm
+python-dotenv
